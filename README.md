@@ -16,7 +16,7 @@ Este projeto simula um banco de dados PostgreSQL usando Docker. O banco de dados
 1. Clone o repositório:
     ```bash
     git clone https://github.com/LucasDiasTavares/DatabricksDataIntegration.git
-    cd mini-projeto-docker-postgres
+    cd DatabricksDataIntegration
     ```
 
 2. Execute o Docker Compose:
